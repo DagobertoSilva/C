@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <locale.h>
 
+//----------------- FUNÇÕES DE SOMA, SUBTRAÇÃO, MULTIPLICAÇÃO E DIVISÃO -----------------
 int Soma(){
     float Numero1;
     float Numero2;
@@ -65,6 +66,7 @@ int main(){
     printf("========================================\n");
     printf("\n");
 
+    //-----------------------------------MENU-----------------------------------
     printf("1. Soma \n2. Subtracao \n3. Multiplicacao \n4. Divisao \n5. Sair \n\n");
     printf("ESCOLHA UMA OPCAO: ");
     scanf("%d", &opcao);
