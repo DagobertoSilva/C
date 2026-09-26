@@ -4,7 +4,7 @@
 
 Uma calculadora de terminal desenvolvida em C com foco na aplicação de fundamentos de programação, modularização, testes e boas práticas de engenharia de software e versionamento (Git/GitHub).
 
-Este projeto não busca apenas entregar uma calculadora funcional, mas documentar e estruturar todo o ciclo de desenvolvimento de uma aplicação em C, desde um script simples até uma arquitetura modular.
+Este projeto não busca apenas entregar uma calculadora funcional, mas documentar e estruturar todo o ciclo de desenvolvimento de uma aplicação em C, desde um script simples até uma arquitetura modular......
 
 ---
 
